@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <ramchandra > -- <jason@git.training> -- <kkhandra9@gmail.com>
 
 # THANKS
 
